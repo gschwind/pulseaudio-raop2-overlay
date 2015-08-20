@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+<repo priority="50" quality="experimental" status="unofficial">
+<name>pulseaudio-raop2</name>
+<description>replace pulseaudio by pulseaudio with raop2 patch set</description>
+<homepage>https://github.com/gschwind/pulseaudio-raop2-overlay.git</homepage>
+<owner><email>gschwind@gnu-log.net</email></owner>
+<source type="git">https://github.com/gschwind/pulseaudio-raop2-overlay.git</source>
+</repo>
+</repositories>
